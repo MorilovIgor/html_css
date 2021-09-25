@@ -1,0 +1,18 @@
+div { 
+	width: 70%; margin: auto;
+    }
+h1 { 
+	font-size: 32px;
+	
+   }
+table, td, th { 
+	border: 1px solid #000;
+	width: 90%;
+              }
+.fixed {
+	table-layout: fixed;
+       }
+
+img {
+	float: right
+    }
